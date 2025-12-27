@@ -24,7 +24,6 @@ lerna-debug.log*
 .env*.local
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -90,3 +89,7 @@ backend/*.egg-info/
 # Shared
 shared/node_modules/
 shared/dist/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
